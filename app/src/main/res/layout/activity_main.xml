@@ -8,12 +8,12 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical" >
 
-        
         <TextView android:text="Nom &amp; Prénom" android:textStyle="bold"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
+
         <EditText
             android:id="@+id/nom"
             android:hint="Ex : Salma lima"
